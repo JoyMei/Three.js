@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  /* background:blue; */
+
+}
+
+.App{
+  background: linear-gradient(-45deg, #e73c7e, #9607e9, #23a6d5, #23d5ab, #7c64e6, #e412f7);
+}
