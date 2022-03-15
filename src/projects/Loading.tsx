@@ -4,7 +4,9 @@ function Loading(props: any) {
   return (
     <div className="loading">
       <div className="inner-loading">
-        <h1 style={{ color: "white", fontSize: "40px" }}>{props.num}%</h1>
+        <h1 style={{ color: "white", fontSize: "80px"}}>
+          {props.num ? props.num + "%" : "... Loading ..."}
+        </h1>
       </div>
       <svg
         className="waves"
@@ -48,9 +50,7 @@ function Loading(props: any) {
           />
         </g>
       </svg>
-      <div className="outer-loading">
-
-      </div>
+      <div className="outer-loading"></div>
     </div>
   );
 }

@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
-    "@react-three/cannon": "^5.0.0",
+    "@react-three/cannon": "^5.0.1",
     "@react-three/drei": "^8.16.5",
     "@react-three/fiber": "^7.0.26",
     "@react-three/postprocessing": "^2.2.4",

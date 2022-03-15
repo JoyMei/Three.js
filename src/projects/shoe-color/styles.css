@@ -11,20 +11,9 @@
   font-family: "Inter var", sans-serif;
   display: flex;
   justify-content: center;
+  background: #ffdd41;
 
 }
-
-/* 
-body {
-  background: white;
-  font-family: "Inter var", sans-serif;
-  display: flex;
-  justify-content: center;
-} */
-
-/* #root {
-  width: 76ch;
-} */
 
 h1 {
   position: absolute;
@@ -41,7 +30,6 @@ h1 {
 
 .picker {
   position: absolute !important;
-  background:red;
   top: 74px;
   left: 70px;
   width: 90px !important;
