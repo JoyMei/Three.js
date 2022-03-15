@@ -72,6 +72,7 @@ function Shoe() {
       onPointerMissed={() => (state.current = null)}
       // eslint-disable-next-line no-sequences
       onClick={(e) => (
+        // eslint-disable-next-line no-sequences
         e.stopPropagation(), (state.current = e.object.material.name)
       )}
     >
