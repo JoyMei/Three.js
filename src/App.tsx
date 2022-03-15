@@ -3,7 +3,7 @@ import * as React from "react";
 import { Outlet, RouteObject, useRoutes } from "react-router-dom";
 import Project from "./pages/Project";
 import ProjectMenu from "./pages/ProjectMenu";
-import Error from "./pages/Error";
+// import Error from "./pages/Error";
 
 import ThreejsJourney from "./projects/threejs-journey/Index";
 import ShoeColor from "./projects/shoe-color/ShoeColor";
@@ -33,7 +33,7 @@ let RoutesGroup: RouteObject[] = [
           { path: "/project/yellow-ball", element: <YellBall /> },
         ],
       },
-      { path: "*", element: <Error /> },
+      { path: "*", element:  <ProjectMenu /> },
     ],
   },
 ];
