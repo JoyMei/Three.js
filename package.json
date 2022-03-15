@@ -1,6 +1,6 @@
 {
   "name": "three-js-fiber",
-  "homepage": "https://joymei.github.io/Three.js-Project/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
