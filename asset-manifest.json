@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.20013e6d.css",
-    "main.js": "./static/js/main.8dccbde1.js",
-    "static/js/787.bd1e774c.chunk.js": "./static/js/787.bd1e774c.chunk.js",
-    "static/media/baked-02.jpeg": "./static/media/baked-02.552afb830429b6e02611.jpeg",
-    "static/media/shoe-draco.glb": "./static/media/shoe-draco.c1309df395d01a12c7ff.glb",
-    "static/media/portal-2.glb": "./static/media/portal-2.84f40573359a365ac5aa.glb",
-    "index.html": "./index.html",
-    "main.20013e6d.css.map": "./static/css/main.20013e6d.css.map",
-    "main.8dccbde1.js.map": "./static/js/main.8dccbde1.js.map",
-    "787.bd1e774c.chunk.js.map": "./static/js/787.bd1e774c.chunk.js.map"
+    "main.css": "/Three.js-Project/static/css/main.20013e6d.css",
+    "main.js": "/Three.js-Project/static/js/main.ae8a65e9.js",
+    "static/js/787.bd1e774c.chunk.js": "/Three.js-Project/static/js/787.bd1e774c.chunk.js",
+    "static/media/baked-02.jpeg": "/Three.js-Project/static/media/baked-02.552afb830429b6e02611.jpeg",
+    "static/media/shoe-draco.glb": "/Three.js-Project/static/media/shoe-draco.c1309df395d01a12c7ff.glb",
+    "static/media/portal-2.glb": "/Three.js-Project/static/media/portal-2.84f40573359a365ac5aa.glb",
+    "index.html": "/Three.js-Project/index.html",
+    "main.20013e6d.css.map": "/Three.js-Project/static/css/main.20013e6d.css.map",
+    "main.ae8a65e9.js.map": "/Three.js-Project/static/js/main.ae8a65e9.js.map",
+    "787.bd1e774c.chunk.js.map": "/Three.js-Project/static/js/787.bd1e774c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20013e6d.css",
-    "static/js/main.8dccbde1.js"
+    "static/js/main.ae8a65e9.js"
   ]
 }
